@@ -1,15 +1,14 @@
-# **App Agenda**
+# **Visualizador de Imagens**
 
-> Aplicativo que cadastra e lista seus usuários.
+> Aplicativo que mostra diferentes imagens.
 
 ## 📱 Descrição
 
-O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
+O **Visualizador de Imagens** mostra uma imagem diferente ao apertar um botão.
 
 ## 🔧 Funcionalidades
 
-- [x] Entrada de dados (Nome, CPF e Telefone)
-- [x] Pesquisa de usuários
+- [x] Botão para selecionar imagem
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -17,8 +16,8 @@ O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
 - [x] **Android Studio** (Koala | 2024.1.2)
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
-- [x] **TextView**, **EditText**, **ListView** para entrada e exibição de dados
-- [x] **Menu** para cadastrar e pesquisar usuário
+- [x] **TextView** e **ImageView** para apresentar a imagem
+- [x] **Button** para mostrar imagem
 
 ## 🛠️ Como Rodar o Projeto
 
@@ -75,13 +74,13 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 1. **Tela Principal**
    
-   Tela principal do app, onde é possivel ver os cadastros e pesquisar por eles.
+   **Primeira** opção de imagem.
    
 ![Texto Alternativo](https://github.com/Kist19/VisualizadordeImagensCompanyDomain/blob/master/primeiraimagem_visualizadordeimagem.jpg?raw=true)
 
 1. **Tela Principal**
    
-   Tela principal do app, onde é possivel ver os cadastros e pesquisar por eles.
+   **Segunda** opção de imagem.
    
 ![Texto Alternativo](https://github.com/Kist19/VisualizadordeImagensCompanyDomain/blob/master/segundaimagem_visualizadordeimagem.jpg?raw=true)
 
