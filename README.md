@@ -40,7 +40,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 │   ├── src
 │   │   ├── main
 │   │   │  ├── java/app/usuario/visulizadordeimagemcompanydomain
-│   │   │  │  ├── MainActivity.java       # Atividade principal com visulizadordeimagemcompanydomain
+│   │   │  │  ├── MainActivity.java       # Atividade principal com VisulizadordeImagemCompanyDomain
 │   │   │  ├── res
 │   │   │  │   ├── layout
 │   │   │  │   │   ├── activity_main.xml  #Layout da tela principal
