@@ -1,6 +1,6 @@
 # **Visualizador de Imagens**
 
-> Aplicativo que mostra diferentes imagens.
+> Aplicativo que mostra uma imagem diferente ao apertar um botão.
 
 ## 📱 Descrição
 
@@ -16,8 +16,8 @@ O **Visualizador de Imagens** mostra uma imagem diferente ao apertar um botão.
 - [x] **Android Studio** (Koala | 2024.1.2)
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
-- [x] **TextView** e **ImageView** para apresentar a imagem
-- [x] **Button** para mostrar imagem
+- [x] **TextView** e **ImageView** para apresentar texto e imagem
+- [x] **Button** para selecionar imagem
 
 ## 🛠️ Como Rodar o Projeto
 
@@ -39,30 +39,16 @@ Siga os passos abaixo para rodar o projeto localmente:
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │  ├── java/com/example/imccalculator
-│   │   │  │  ├── MainActivity.java # Atividade principal com cálculo do IMC
-│   │   │  ├──res
+│   │   │  ├── java/app/usuario/visulizadordeimagemcompanydomain
+│   │   │  │  ├── MainActivity.java       # Atividade principal com visulizadordeimagemcompanydomain
+│   │   │  ├── res
 │   │   │  │   ├── layout
-│   │   │  │   │   ├── activity_main.xml   #Layout da tela principal
-│   │   │  
-│   └── values
-
-
-│   │   │  
-│       ├──
-strings.xml         # Strings usadas no
-app
-
-
-│   │   │  
-│       ├── colors.xml          # Cores definidas no projeto
-
-
-│   └── build.gradle                        # Configuração do
-Gradle
-
-
-└── README.md                               # Este arquivo
+│   │   │  │   │   ├── activity_main.xml  #Layout da tela principal
+│   │   │  │   └── values
+│   │   │  │       ├── strings.xml        # Strings usadas no app
+│   │   │  │       ├── colors.xml         # Cores definidas no projeto
+│   └── build.gradle                      # Configuração do Gradle
+└── README.md                             # Este arquivo
 ```
 ## 🎨 Design e Prototipagem
  
