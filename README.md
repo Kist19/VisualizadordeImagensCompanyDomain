@@ -64,7 +64,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
    
 ![Texto Alternativo](https://github.com/Kist19/VisualizadordeImagensCompanyDomain/blob/master/primeiraimagem_visualizadordeimagem.jpg?raw=true)
 
-## 2. Tela Secundaria
+## 2. Tela Secundária
    
    **Segunda** opção de imagem.
    
